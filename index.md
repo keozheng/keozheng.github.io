@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <title>凝眸 NeuroMoment</title>
