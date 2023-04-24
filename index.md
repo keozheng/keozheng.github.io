@@ -1,7 +1,4 @@
 <html>
-  <head>
-    <title>凝眸 NeuroMoment</title>
-  </head>
   <body>
     <h1>网站升级中，敬请期待！</h1>
     <p>请移步我的知乎账号 <a href="https://www.zhihu.com/people/keo-zheng-58">凝眸 NeuroMoment</a>.</p>
