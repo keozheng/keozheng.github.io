@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Hello, this is my new website.</title>
+    <title>凝眸 NeuroMoment</title>
   </head>
   <body>
     <h1>网站升级中，敬请期待！</h1>
